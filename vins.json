@@ -1,4 +1,6 @@
-[
-  "LSGXXXXXXXX",        /* 测试用VIN */
-  "LSGXC83LXMV082486"   /* 拓锐特VIN */
-]
+{
+  "vins": [
+    "LSGXXXXXXXX",      // 测试用VIN
+    "LSGXC83LXMV082486" // 拓锐特VIN
+  ]
+}
