@@ -1,14 +1,2 @@
-{
-  "vins": [
-    {
-      "vin": "LSGXXXXXXXX",
-      "note": "张三的车",
-      "date": "2024-01-15"
-    },
-    {
-      "vin": "LSGXC83LXMV082486",
-      "note": "拓拔野的车",
-      "date": "2024-01-15"
-    }
-  ]
-}
+LSGXXXXXXXX  #测试
+LSGXC83LXMV082486  #拓拔野
