@@ -1,0 +1,14 @@
+{
+  "vins": [
+    {
+      "vin": "LSGXXXXXXXX",
+      "note": "张三的车",
+      "date": "2024-01-15"
+    },
+    {
+      "vin": "LSGYYYYYYY",
+      "note": "李四的车",
+      "date": "2024-01-15"
+    }
+  ]
+}
